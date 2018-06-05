@@ -1,5 +1,5 @@
 package com.notez.notez;
-
+// Devin was here
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
